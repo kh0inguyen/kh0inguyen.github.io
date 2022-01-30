@@ -14,9 +14,9 @@ This repository holds the official Jekyll version of the Clean Blog theme on Sta
 
 **[Jekyll Installations](https://stackoverflow.com/questions/68220028/undefined-method-delegate-method-as-for-jekylldropscollectiondropclass-n)**
 
-`sudo apt-get install ruby-full build-essential zlib1g-dev`
-`sudo gem install jekyll jekyll-feed jekyll-gist jekyll-paginate jekyll-sass-converter jekyll-coffeescript`
-`bundle update`
+1. Install ruby and the required libraries: `sudo apt-get install ruby-full build-essential zlib1g-dev`
+2. Download and install jekyll using gem: `sudo gem install jekyll jekyll-feed jekyll-gist jekyll-paginate jekyll-sass-converter jekyll-coffeescript`
+3. Update bundle: `bundle update`
 
 ### Using RubyGems
 
