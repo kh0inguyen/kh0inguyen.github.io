@@ -1,14 +1,15 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
+title:              Nguyễn Ventures
+email:              red_falcon@yahoo.com
+audience:           Cổ Đông
+description:        Quỹ đầu tư tăng trưởng của Khôi Nguyễn
+author:             Khôi Nguyễn
 baseurl:            ""
 url:                "https://kh0inguyen.github.io/"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
+twitter_username:
+github_username:
+facebook_username:
 instagram_username:
 linkedin_username:
 

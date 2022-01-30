@@ -12,6 +12,12 @@ This repository holds the official Jekyll version of the Clean Blog theme on Sta
 
 ## Installation & Setup
 
+**[Jekyll Installations](https://stackoverflow.com/questions/68220028/undefined-method-delegate-method-as-for-jekylldropscollectiondropclass-n)**
+
+`sudo apt-get install ruby-full build-essential zlib1g-dev`
+`sudo gem install jekyll jekyll-feed jekyll-gist jekyll-paginate jekyll-sass-converter jekyll-coffeescript`
+`bundle update`
+
 ### Using RubyGems
 
 When installing the theme using RubyGems, demo images, posts, and pages are not included. Follow the instructions below for complete setup.
