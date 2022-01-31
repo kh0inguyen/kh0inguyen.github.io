@@ -7,6 +7,7 @@ header.masthead {
     background-attachment: scroll;
     position: relative;
     background-size: cover;
+    margin-top: -75px;
 
     .overlay {
         position: absolute;
@@ -24,14 +25,14 @@ header.masthead {
         padding: 200px 0 150px;
         color: white;
 
-        @media only screen and (max-height: 500px) {
-            padding: 200px 0;
+        @media only screen and (min-width: 768px) {
         }
     }
 
     .page-heading,
     .site-heading {
         text-align: center;
+        margin-bottom: -25px;
 
         h1 {
             font-size: 50px;
